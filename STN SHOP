@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>STN SHOP</title>
+<style>
+body{
+    margin:0;
+    background:#111;
+    font-family:Arial,sans-serif;
+    color:#fff;
+    text-align:center;
+}
+.container{
+    padding:40px 20px;
+}
+.logo{
+    width:140px;
+    height:140px;
+    border-radius:50%;
+    margin-bottom:20px;
+}
+h1{
+    font-size:40px;
+    margin:10px 0;
+}
+p{
+    color:#ccc;
+}
+.btn{
+    display:inline-block;
+    background:#ff0000;
+    color:#fff;
+    text-decoration:none;
+    padding:15px 40px;
+    border-radius:10px;
+    font-size:20px;
+    margin-top:20px;
+}
+.box{
+    background:#1b1b1b;
+    margin:15px auto;
+    padding:20px;
+    border-radius:10px;
+    max-width:300px;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<img src="logo.jpg" class="logo">
+
+<h1>STN SHOP</h1>
+
+<p>Official Android App</p>
+
+<a href="STN_SHOP.apk" download class="btn">DOWNLOAD NOW</a>
+
+<div class="box">
+<h2>🔒 Secure Download</h2>
+<p>100% Safe APK</p>
+</div>
+
+<div class="box">
+<h2>⚡ Fast Download</h2>
+<p>Latest Version</p>
+</div>
+
+</div>
+
+</body>
+</html>
